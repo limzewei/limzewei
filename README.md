@@ -63,4 +63,4 @@ Backend & full-stack engineering · API integrations · developer tooling · aut
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/zewei-lim-74269a2a7/) · [Email](mailto:limzewei123@gmail.com)
+[Portfolio](https://portfolio-taupe-kappa-01vk760xc7.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/zewei-lim-74269a2a7/) · [Email](mailto:limzewei123@gmail.com)
